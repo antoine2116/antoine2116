@@ -1,4 +1,4 @@
 - 🏢 ASP.NET Developper for 4 years at EFY-SOFT, Bordeaux, France 
-- 🌱 Student at ESPI Bordeaux, France
-- 🔭 I’m currently working on My Movie List, a movie explorer using Next.JS and a Golang REST API
+- 🌱 Graduated from ESPI Bordeaux, France
+- 🔭 I’m currently working on go-choruspro, a Go client library for acessing the ChorusPro API
 - 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/antoine-robin-14978b170/)
